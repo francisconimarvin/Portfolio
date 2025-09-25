@@ -6,4 +6,4 @@ For this Website I've used:
 Vite + React
 TailwindCSS
 
-Read the vite.config.js to see them plugins.
+www.marvinfrancisconi.com
